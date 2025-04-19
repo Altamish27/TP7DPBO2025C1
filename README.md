@@ -75,7 +75,7 @@ Relasi antar tabel juga diterapkan, di mana Film dapat memiliki banyak Aktor, da
 ![image](https://github.com/user-attachments/assets/898d2138-89d6-4bda-aa50-74c700abd909)
 
 
-Uploading Recording 2025-04-20 000653.mp4…
+https://github.com/user-attachments/assets/f157a30a-1aab-47ba-8fa2-4e9a0a4f127a
 
 
 ```plaintex
